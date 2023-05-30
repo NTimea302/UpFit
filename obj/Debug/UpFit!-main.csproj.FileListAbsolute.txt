@@ -1,0 +1,372 @@
+C:\UpFit!-main\bin\UpFit!-main.dll.config
+C:\UpFit!-main\bin\UpFit!-main.dll
+C:\UpFit!-main\bin\UpFit!-main.pdb
+C:\UpFit!-main\bin\roslyn\csc.exe
+C:\UpFit!-main\bin\roslyn\csc.exe.config
+C:\UpFit!-main\bin\roslyn\csc.rsp
+C:\UpFit!-main\bin\roslyn\csi.exe
+C:\UpFit!-main\bin\roslyn\csi.exe.config
+C:\UpFit!-main\bin\roslyn\csi.rsp
+C:\UpFit!-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\UpFit!-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\UpFit!-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\UpFit!-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\UpFit!-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\UpFit!-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UpFit!-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\UpFit!-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\UpFit!-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\UpFit!-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\UpFit!-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\UpFit!-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\UpFit!-main\bin\roslyn\System.AppContext.dll
+C:\UpFit!-main\bin\roslyn\System.Collections.Immutable.dll
+C:\UpFit!-main\bin\roslyn\System.Console.dll
+C:\UpFit!-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\UpFit!-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\UpFit!-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\UpFit!-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\UpFit!-main\bin\roslyn\System.IO.Compression.dll
+C:\UpFit!-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\UpFit!-main\bin\roslyn\System.IO.FileSystem.dll
+C:\UpFit!-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\UpFit!-main\bin\roslyn\System.Net.Http.dll
+C:\UpFit!-main\bin\roslyn\System.Net.Sockets.dll
+C:\UpFit!-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\UpFit!-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\UpFit!-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\UpFit!-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\UpFit!-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\UpFit!-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\UpFit!-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\UpFit!-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\UpFit!-main\bin\roslyn\System.ValueTuple.dll
+C:\UpFit!-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\UpFit!-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\UpFit!-main\bin\roslyn\System.Xml.XPath.dll
+C:\UpFit!-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\UpFit!-main\bin\roslyn\vbc.exe
+C:\UpFit!-main\bin\roslyn\vbc.exe.config
+C:\UpFit!-main\bin\roslyn\vbc.rsp
+C:\UpFit!-main\bin\roslyn\VBCSCompiler.exe
+C:\UpFit!-main\bin\roslyn\VBCSCompiler.exe.config
+C:\UpFit!-main\bin\Antlr3.Runtime.dll
+C:\UpFit!-main\bin\EntityFramework.dll
+C:\UpFit!-main\bin\EntityFramework.SqlServer.dll
+C:\UpFit!-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\UpFit!-main\bin\Microsoft.Web.Infrastructure.dll
+C:\UpFit!-main\bin\Newtonsoft.Json.dll
+C:\UpFit!-main\bin\System.Web.Helpers.dll
+C:\UpFit!-main\bin\System.Web.Mvc.dll
+C:\UpFit!-main\bin\System.Web.Optimization.dll
+C:\UpFit!-main\bin\System.Web.Razor.dll
+C:\UpFit!-main\bin\System.Web.WebPages.Deployment.dll
+C:\UpFit!-main\bin\System.Web.WebPages.dll
+C:\UpFit!-main\bin\System.Web.WebPages.Razor.dll
+C:\UpFit!-main\bin\WebGrease.dll
+C:\UpFit!-main\bin\EntityFramework.xml
+C:\UpFit!-main\bin\EntityFramework.SqlServer.xml
+C:\UpFit!-main\bin\System.Web.Helpers.xml
+C:\UpFit!-main\bin\System.Web.Mvc.xml
+C:\UpFit!-main\bin\System.Web.Optimization.xml
+C:\UpFit!-main\bin\System.Web.Razor.xml
+C:\UpFit!-main\bin\System.Web.WebPages.xml
+C:\UpFit!-main\bin\System.Web.WebPages.Deployment.xml
+C:\UpFit!-main\bin\System.Web.WebPages.Razor.xml
+C:\UpFit!-main\bin\Newtonsoft.Json.xml
+C:\UpFit!-main\bin\Antlr3.Runtime.pdb
+C:\UpFit!-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\UpFit!-main\obj\Debug\UpFit!-main.csproj.AssemblyReference.cache
+C:\UpFit!-main\obj\Debug\UpFit!-main.csproj.CoreCompileInputs.cache
+C:\UpFit!-main\obj\Debug\UpFit!-main.csproj.CopyComplete
+C:\UpFit!-main\obj\Debug\UpFit!-main.dll
+C:\UpFit!-main\obj\Debug\UpFit!-main.pdb
+C:\UpFit!-main\obj\Debug\UpFit__main.Migrations.ADdall.resources
+C:\UpFit!-main\obj\Debug\UpFit!-main.csproj.GenerateResource.cache
+C:\UpFit!-main\obj\Debug\UpFit__main.Migrations._new.resources
+C:\UpFit!-main\obj\Debug\UpFit__main.Migrations.Doubletosingle.resources
+C:\UpFit!-main\obj\Debug\UpFit__main.Migrations.dbl.resources
+C:\UpFit!-main\obj\Debug\UpFit__main.Migrations.addedmeal.resources
+C:\UpFit!-main\obj\Debug\UpFit__main.Migrations.addedmeal2.resources
+C:\UpFit!-main\obj\Debug\UpFit__main.Migrations.databasegeneratedIdentity.resources
+C:\UpFitApplication\UpFit--main\bin\UpFit!-main.dll.config
+C:\UpFitApplication\UpFit--main\bin\UpFit!-main.dll
+C:\UpFitApplication\UpFit--main\bin\UpFit!-main.pdb
+C:\UpFitApplication\UpFit--main\bin\roslyn\csc.exe
+C:\UpFitApplication\UpFit--main\bin\roslyn\csc.exe.config
+C:\UpFitApplication\UpFit--main\bin\roslyn\csc.rsp
+C:\UpFitApplication\UpFit--main\bin\roslyn\csi.exe
+C:\UpFitApplication\UpFit--main\bin\roslyn\csi.exe.config
+C:\UpFitApplication\UpFit--main\bin\roslyn\csi.rsp
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\UpFitApplication\UpFit--main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.AppContext.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Collections.Immutable.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Console.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Globalization.Calendars.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.IO.Compression.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.IO.FileSystem.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Net.Http.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Net.Sockets.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Reflection.Metadata.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.ValueTuple.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Xml.XPath.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\UpFitApplication\UpFit--main\bin\roslyn\vbc.exe
+C:\UpFitApplication\UpFit--main\bin\roslyn\vbc.exe.config
+C:\UpFitApplication\UpFit--main\bin\roslyn\vbc.rsp
+C:\UpFitApplication\UpFit--main\bin\roslyn\VBCSCompiler.exe
+C:\UpFitApplication\UpFit--main\bin\roslyn\VBCSCompiler.exe.config
+C:\UpFitApplication\UpFit--main\bin\Antlr3.Runtime.dll
+C:\UpFitApplication\UpFit--main\bin\EntityFramework.dll
+C:\UpFitApplication\UpFit--main\bin\EntityFramework.SqlServer.dll
+C:\UpFitApplication\UpFit--main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\UpFitApplication\UpFit--main\bin\Microsoft.Web.Infrastructure.dll
+C:\UpFitApplication\UpFit--main\bin\Newtonsoft.Json.dll
+C:\UpFitApplication\UpFit--main\bin\System.Web.Helpers.dll
+C:\UpFitApplication\UpFit--main\bin\System.Web.Mvc.dll
+C:\UpFitApplication\UpFit--main\bin\System.Web.Optimization.dll
+C:\UpFitApplication\UpFit--main\bin\System.Web.Razor.dll
+C:\UpFitApplication\UpFit--main\bin\System.Web.WebPages.Deployment.dll
+C:\UpFitApplication\UpFit--main\bin\System.Web.WebPages.dll
+C:\UpFitApplication\UpFit--main\bin\System.Web.WebPages.Razor.dll
+C:\UpFitApplication\UpFit--main\bin\WebGrease.dll
+C:\UpFitApplication\UpFit--main\bin\EntityFramework.xml
+C:\UpFitApplication\UpFit--main\bin\EntityFramework.SqlServer.xml
+C:\UpFitApplication\UpFit--main\bin\System.Web.Helpers.xml
+C:\UpFitApplication\UpFit--main\bin\System.Web.Mvc.xml
+C:\UpFitApplication\UpFit--main\bin\System.Web.Optimization.xml
+C:\UpFitApplication\UpFit--main\bin\System.Web.Razor.xml
+C:\UpFitApplication\UpFit--main\bin\System.Web.WebPages.xml
+C:\UpFitApplication\UpFit--main\bin\System.Web.WebPages.Deployment.xml
+C:\UpFitApplication\UpFit--main\bin\System.Web.WebPages.Razor.xml
+C:\UpFitApplication\UpFit--main\bin\Newtonsoft.Json.xml
+C:\UpFitApplication\UpFit--main\bin\Antlr3.Runtime.pdb
+C:\UpFitApplication\UpFit--main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit!-main.csproj.AssemblyReference.cache
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit__main.Migrations.ADdall.resources
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit__main.Migrations._new.resources
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit__main.Migrations.Doubletosingle.resources
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit__main.Migrations.dbl.resources
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit__main.Migrations.addedmeal.resources
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit__main.Migrations.addedmeal2.resources
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit__main.Migrations.databasegeneratedIdentity.resources
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit!-main.csproj.GenerateResource.cache
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit!-main.csproj.CoreCompileInputs.cache
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit!-main.csproj.CopyComplete
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit!-main.dll
+C:\UpFitApplication\UpFit--main\obj\Debug\UpFit!-main.pdb
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\UpFit!-main.dll.config
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\UpFit!-main.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\UpFit!-main.pdb
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\csc.exe
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\csc.exe.config
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\csc.rsp
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\csi.exe
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\csi.exe.config
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\csi.rsp
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.AppContext.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Console.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Net.Http.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\vbc.exe
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\vbc.exe.config
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\vbc.rsp
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\Antlr3.Runtime.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\EntityFramework.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\EntityFramework.SqlServer.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\Newtonsoft.Json.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.Helpers.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.Mvc.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.Optimization.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.Razor.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.WebPages.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\WebGrease.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\EntityFramework.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\EntityFramework.SqlServer.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.Helpers.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.Mvc.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.Optimization.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.Razor.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.WebPages.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\Newtonsoft.Json.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\Antlr3.Runtime.pdb
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit!-main.csproj.AssemblyReference.cache
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.ADdall.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations._new.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.Doubletosingle.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.dbl.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.addedmeal.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.addedmeal2.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.databasegeneratedIdentity.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.AddColumnKcal.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.ModifyColumn.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.KcalIntFood.resources
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit!-main.csproj.GenerateResource.cache
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit!-main.csproj.CoreCompileInputs.cache
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit!-main.csproj.CopyComplete
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit!-main.dll
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit!-main.pdb
+C:\Users\iuly_\OneDrive\Desktop\UpFit--main-main\obj\Debug\UpFit__main.Migrations.RemoveKcalMeal.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\UpFit!-main.dll.config
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\UpFit!-main.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\UpFit!-main.pdb
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\csc.exe
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\csc.exe.config
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\csc.rsp
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\csi.exe
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\csi.exe.config
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\csi.rsp
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.AppContext.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Console.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Net.Http.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\vbc.exe
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\vbc.exe.config
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\vbc.rsp
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\Antlr3.Runtime.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\EntityFramework.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\EntityFramework.SqlServer.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\Newtonsoft.Json.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.Helpers.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.Mvc.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.Optimization.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.Razor.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.WebPages.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\WebGrease.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\EntityFramework.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\EntityFramework.SqlServer.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.Helpers.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.Mvc.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.Optimization.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.Razor.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.WebPages.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\Newtonsoft.Json.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\Antlr3.Runtime.pdb
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit!-main.csproj.AssemblyReference.cache
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.ADdall.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations._new.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.Doubletosingle.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.dbl.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.addedmeal.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.addedmeal2.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.databasegeneratedIdentity.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.AddColumnKcal.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.ModifyColumn.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.KcalIntFood.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit__main.Migrations.RemoveKcalMeal.resources
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit!-main.csproj.GenerateResource.cache
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit!-main.csproj.CoreCompileInputs.cache
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit!-main.csproj.CopyComplete
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit!-main.dll
+C:\Users\TIMICI\Downloads\UpFit--main-main (2)\UpFit--main-main\obj\Debug\UpFit!-main.pdb

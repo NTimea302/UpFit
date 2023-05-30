@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Contact Us";
+}
+
+@Html.Partial("_NavBarBasic")
+<main aria-labelledby="title">
+    <div class="d-flex justify-content-center align-items-center flex-column" style="background-color: rgba(255,255,255,0.3); ">
+        <p> </p>
+        <h2 id="title">@ViewBag.Title</h2>
+
+
+        <div class="px-md-5">Looking to get in touch with us? We'd love to hear from you! Whether you have a question, feedback or just want to say hello, we're here to listen and help in any way we can. You can fill out the form below and we'll get back to you as soon as possible. Alternatively, you can reach out to us directly via phone or email listed on this page. Thank you for your interest in our fitness community, and we can't wait to connect with you!</div>
+        <div class="container" style="display: flex; justify-content: center; align-items: center;">
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+                </div>
+                <div class="mb-3">
+                    <label for="subject" class="form-label">Subject</label>
+                    <input type="text" class="form-control" id="subject" placeholder="Type the subject">
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message</label>
+                    <textarea class="form-control" id="message" rows="3" placeholder="Type your message here..."></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+
+
+        <address>
+            Cluj, Cluj-Napoca<br />
+            Ceahlaul nr. 72<br />
+            <abbr title="Phone">Phone:</abbr>
+            07457442145
+        </address>
+
+        <address>
+            <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@upfit.com</a><br />
+            <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@upfit.com</a>
+        </address>
+    </div>
+</main>

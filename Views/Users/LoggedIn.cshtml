@@ -1,0 +1,201 @@
+﻿@model UpFit__main.Models.User
+@{
+    ViewBag.Title = "LoggedIn";
+    var alo = Session["SubscriptionType"].ToString();
+    var userID = Session["UserID"].ToString();
+    var kcaldaily = Session["KcalDaily"];
+}
+
+
+@using (Html.BeginForm("MacroCalculations"))
+{
+    List<double> macrodaily = ViewBag.Macrodaily;
+    var remainedKcal = (int)kcaldaily - (int)Math.Round(macrodaily[0]);
+    if (alo == "0")
+    {
+        @Html.Partial("_NavBarBasic")
+
+
+        @Html.AntiForgeryToken()
+        <div class="d-flex justify-content-center align-items-center flex-column" style="background-color: rgba(255,255,255,0.3); ">
+            <h2> Hello, @Model.FirstName </h2>
+            <div>
+                <p>
+                    Based on your info we calculated your daily necessary intake for maintenance.
+                </p>
+                <p>
+                    Your goal should be: @kcaldaily kcal
+                </p>
+                <p>
+                    You have left: @remainedKcal kcal
+                </p>
+            </div>
+            <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+
+                @Html.ActionLink("Add Meal", "Create", "Meals", new { area = "" }, new { @class = "btn btn-primary btn-custom" })
+
+                <div>
+                    <div style="height: 80vh; ">
+
+                        <div class="row">
+                            <div class="col-md-12">
+
+                                <h1 class="text-center my-4">My Daily Nutrients</h1>
+                            </div>
+                        </div>
+
+                        <div class="row d-flex justify-content-center">
+                            <div class="col-md-12">
+                                <div class="card-body">
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+                                                <th>Nutrient</th>
+                                                <th>Total Amount</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Calories consumed</td>
+                                                <td> @macrodaily[0] </td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Protein</td>
+                                                <td> @macrodaily[2] </td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Carbohydrates</td>
+                                                <td>@macrodaily[1].ToString()</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Fats</td>
+                                                <td>@macrodaily[3].ToString()</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Fiber</td>
+                                                <td>@macrodaily[4].ToString()</td>
+
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+    else
+    {
+        @Html.Partial("_NavBarPremium")
+        @Html.AntiForgeryToken()
+        <div class="d-flex justify-content-center align-items-center flex-column" style="background-color: rgba(255,255,255,0.3); ">
+            <h2> Hello, @Model.FirstName </h2>
+            <div>
+                <p>
+                    Based on your info we calculated your daily necessary intake for maintenance.
+                </p>
+                <p>
+                    Your goal should be: @kcaldaily kcal
+                </p>
+                <p>
+                    You have left: @remainedKcal kcal
+                </p>
+            </div>
+            <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+
+                @Html.ActionLink("Add Meal", "Create", "Meals", new { area = "" }, new { @class = "btn btn-primary btn-custom" })
+
+                <div>
+                    <div style="height: 120vh;">
+
+                        <div class="row">
+                            <div class="col-md-12">
+
+                                <h1 class="text-center my-4">My Daily Nutrients</h1>
+                            </div>
+                        </div>
+
+                        <div class="row d-flex justify-content-center">
+                            <div class="col-md-12">
+                                <div class="card-body">
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+                                                <th>Nutrient</th>
+                                                <th>Total Amount</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Calories consumed</td>
+                                                <td> @macrodaily[0] </td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Protein</td>
+                                                <td> @macrodaily[2] </td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Carbohydrates</td>
+                                                <td>@macrodaily[1].ToString()</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Fats</td>
+                                                <td>@macrodaily[3].ToString()</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Fiber</td>
+                                                <td>@macrodaily[4].ToString()</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Vitamin A</td>
+                                                <td>@macrodaily[5].ToString()</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Vitamin B</td>
+                                                <td>@macrodaily[6].ToString()</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Vitamin C</td>
+                                                <td>@macrodaily[7].ToString()</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Vitamin D</td>
+                                                <td>@macrodaily[8].ToString()</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>Vitamin E</td>
+                                                <td>@macrodaily[9].ToString()</td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

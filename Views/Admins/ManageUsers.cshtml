@@ -1,0 +1,56 @@
+﻿@model IEnumerable<UpFit__main.Models.User>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@{
+    ViewBag.Title = "ManageUsers";
+}
+
+<h2>Manage Users</h2>
+
+@Html.ActionLink("Back", "Index", "Admins", new { area = "" }, new { @class = "btn btn-primary btn-custom" })
+
+@Html.ActionLink("Create New", "AddUser", new { area = "" }, new { @class = "btn btn-primary btn-custom" })
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SubscriptionTypeFK)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubscriptionTypeFK)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+
+            <td>
+                @Html.ActionLink("Delete", "DeleteUser", new { id = item.UserID }) |
+                @Html.ActionLink("Details", "DetailsUser", new { id = item.UserID })
+            </td>
+        </tr>
+    }
+
+</table>

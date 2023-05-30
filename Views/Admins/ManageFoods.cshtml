@@ -1,0 +1,56 @@
+﻿@model IEnumerable<UpFit__main.Models.Food>
+@{
+    ViewBag.Title = "ManageFoods";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using UpFit__main.Models;
+
+<h2>Manage Foods</h2>
+
+@Html.ActionLink("Back", "Index", "Admins", new { area = "" }, new { @class = "btn btn-primary btn-custom" })
+
+@Html.ActionLink("Create New", "CreateFoods", new { area = "" }, new { @class = "btn btn-primary btn-custom" })
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        FoodType foodType = null;
+        foreach (var type in ViewBag.FoodTypes)
+        {
+            if (type.ID_Type == item.type)
+            {
+                foodType = type;
+                break;
+            }
+        }
+
+        <tr>
+            <td>
+                @if (foodType != null)
+                {
+                    @foodType.Name
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditFoods", new { id = item.foodID }) |
+                @Html.ActionLink("Delete", "DeleteFoods", new { id = item.foodID })
+            </td>
+        </tr>
+    }
+
+
+</table>

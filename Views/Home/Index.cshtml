@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<style>
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        width: 100%;
+        margin: auto;
+    }
+
+    .carousel-inner img {
+        max-width: 300px;
+        max-height: 200px;
+        margin: auto;
+    }
+
+    .slider {
+        display: flex;
+        justify-content: center;
+    }
+
+        .slider img {
+            max-width: 100%;
+            height: auto;
+            transition: transform 0.5s ease-in-out;
+        }
+
+            .slider img:hover {
+                transform: scale(1.2);
+            }
+</style>
+
+<body>
+    <main aria-labelledby="title">
+        <div class="d-flex justify-content-center align-items-center flex-column" style="background-color: rgba(255,255,255,0.3); ">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <div class="slider">
+                            <img src="~/Content/poza1.jpg" alt="Image 1">
+                            <img src="~/Content/poza.jpg" alt="Image 2">
+                            <img src="~/Content/poza2.jpg" alt="Image 3">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="px-md-5" style="padding: 50px; text-align: center;">
+                UpFit! is a fitness application that helps users track their workouts, set fitness goals, and monitor their progress with its user-friendly interface and comprehensive tracking tools. UpFit! is a great choice for anyone looking to take control of their fitness journey.
+            </div>
+            <div class="login-register">
+                <h3 style="color: white;">Login or Register to use the application!</h3>
+                <div>
+                    @Html.ActionLink("Log In", "Login", "Users", new { area = "" }, new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Register", "Register", "Users", new { area = "" }, new { @class = "btn btn-primary" })
+                </div>
+                <div style="padding: 50px; ">
+                    <h3 style="color: white;">Are you a coach or admin?</h3>
+                    <div>
+                        @Html.ActionLink("Log In as Coach", "Login", "Coach", new { area = "" }, new { @class = "btn btn-primary" })
+                        @Html.ActionLink("Log In as Admin", "Login", "Admins", new { area = "" }, new { @class = "btn btn-primary" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Bootstrap JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</body>

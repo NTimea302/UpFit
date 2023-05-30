@@ -1,0 +1,26 @@
+﻿@model UpFit__main.Models.MealType
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>MealType</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.mealName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mealName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.mealTypeID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

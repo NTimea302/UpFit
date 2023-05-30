@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "VideoList";
+}
+
+<h2>VideoList</h2>
+<!DOCTYPE html>
+<html>
+<body>
+    <div class="container">
+        @using (Html.BeginForm("VideoList", "Users"))
+        {
+            foreach (var item in Model)
+            {
+                <div class="title" style="width:250px;"> @item.Vname </div>
+                <div class="video-frame">
+                    <video style="width:250px; height:155px;" controls>
+                        <source src="@Url.Content(item.Vpath)" type="video/mp4" />
+                    </video>
+                </div>
+            }
+        }
+    </div>
+</body>
+</html>

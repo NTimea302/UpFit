@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "VideoList";
+}
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="d-flex justify-content-center align-items-center flex-column" style="background-color: rgba(255,255,255,0.3); ">
+        <h2>Video Files Upload </h2>
+
+        @using (Html.BeginForm("AddVideo", "Coach", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="form-group">
+                <label> Upload video files: </label>
+                <div class="input_group">
+                    @Html.TextBox("video", "", new { type = "file" }) <br />
+                    <input type="submit" value="Upload video files" />
+                </div>
+            </div>
+        }
+        @using (Html.BeginForm("VideoList"))
+        {
+            foreach (var item in Model)
+            {
+                <div class="title" style="width:250px;"> @item.Vname </div>
+                <div class="video-frame">
+                    <video style="width:250px; height:155px;" controls>
+                        <source src="@Url.Content(item.Vpath)" type="video/mp4" />
+                    </video>
+                </div>
+            }
+        }
+
+    </div>
+</body>
+</html>
+
+

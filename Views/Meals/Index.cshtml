@@ -1,0 +1,51 @@
+﻿@model IEnumerable<UpFit__main.Models.Meal>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.mealTypeFK)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.userFK)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.foodFK)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.quantity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.mealTypeFK)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.userFK)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.foodFK)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.quantity)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.mealID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.mealID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.mealID })
+        </td>
+    </tr>
+}
+
+</table>

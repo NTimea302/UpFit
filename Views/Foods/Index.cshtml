@@ -1,0 +1,99 @@
+﻿@model IEnumerable<UpFit__main.Models.Food>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.calories)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.proteins)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fats)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.carbs)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fibers)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.vitamin_A)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.vitamin_B)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.vitamin_C)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.vitamin_D)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.vitamin_E)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.calories)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.proteins)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fats)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.carbs)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fibers)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.vitamin_A)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.vitamin_B)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.vitamin_C)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.vitamin_D)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.vitamin_E)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.foodID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.foodID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.foodID })
+        </td>
+    </tr>
+}
+
+</table>

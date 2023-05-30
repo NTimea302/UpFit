@@ -1,0 +1,27 @@
+﻿<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+    <div class="container">
+        <img src="~/Content/LOGO.png" alt="logo" width="50" height="50">
+        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class=" collapse navbar-collapse d-sm-inline-flex justify-content-between">
+            <ul class="navbar-nav ml-auto" style="padding: 0.5rem;">
+                <li class="nav-item">
+                    @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                 <li class="nav-item">
+                    @Html.ActionLink("Workouts", "Videolist", "Users", new { area = "" }, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Log Out", "Index", "Home", new { area = "" }, new { @class = "nav-link" })
+                </li>
+               
+
+            </ul>
+        </div>
+    </div>
+</nav>
